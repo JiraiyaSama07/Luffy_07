@@ -1,0 +1,29 @@
+*{
+    background-image: url(23.jpg);
+    background-color: ;
+    font-family: ;
+    font-weight: 1000;
+    text-shadow: 2px 2px 8px #FF0000;
+    color: skyblue;
+    
+
+}
+
+
+ .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+form{
+    background: ;
+
+    border: 10px square black;
+    padding: 15px;
+    background:;
+    background-clip: "bgm.mp3";  
+}
